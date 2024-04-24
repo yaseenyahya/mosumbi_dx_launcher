@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mosumbi_dx_launcher", "mosumbi_dx_launcher\mosumbi_dx_launcher.csproj", "{D08FE260-088C-4319-89A8-B5F0D7C741EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08FE260-088C-4319-89A8-B5F0D7C741EE}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D08FE260-088C-4319-89A8-B5F0D7C741EE}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D08FE260-088C-4319-89A8-B5F0D7C741EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08FE260-088C-4319-89A8-B5F0D7C741EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ADE00A5-0559-4B56-9F1F-6C4ED4645B69}
+	EndGlobalSection
+EndGlobal
